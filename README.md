@@ -1,6 +1,7 @@
 # DynamicProgramming
 
-##¿What is Dynamic Programming?
+> ¿What is Dynamic Programming?
+``` bash
 In the concept is a programming paradigm but in my learning across the DP, I think it's more a skill that We can implement in a any kind of paradigm, like POO or Functional to improve the performance of our code.
 
 ## Dynamic Programming Exercises Written in Javascript
