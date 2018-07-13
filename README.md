@@ -13,6 +13,7 @@ Personally I think the theory for people to low level knowlegde in Maths are so 
 But practicing in problems all can understand little by little this very high tool for any Developer, also will be you a better Software Egineer.
 
 >¿Why Javascript?
+
 Because is the language I most used today, but applies in any language is more about algorithms. I strongly recommended too use in languages that are very focused in Functional Programming like Haskell, Rust, etc. Also Kotlin is very focused in Poo and Functional.
 
 In my excercies always I will try implement latest features of javascript like destructuring and so on...
