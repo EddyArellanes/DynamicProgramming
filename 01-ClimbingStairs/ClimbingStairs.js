@@ -1,8 +1,8 @@
 /*
-
+----------------------------------------------------------------------------------------------------------------------
 This Excercise was taken from www.codefights.com a place to learn algorithms and improve de programming skills
-Problem:
 
+Problem:
 You are climbing a staircase that has n steps. You can take the steps either 1 or 2 at a time. Calculate how many distinct ways you can climb to the top of the staircase.
 
 Example
@@ -12,8 +12,9 @@ climbingStairs(n) = 1;
 
 For n = 2, the output should be
 climbingStairs(n) = 2.
-
-You can either climb 2 steps at once or climb 1 step two times.
+----------------------------------------------------------------------------------------------------------------------
+Tip: You can either climb 2 steps at once or climb 1 step two times.
+----------------------------------------------------------------------------------------------------------------------
 */
 
 //Function that resolve this
